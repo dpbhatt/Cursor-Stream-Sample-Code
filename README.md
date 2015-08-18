@@ -21,9 +21,9 @@ Test whether Nodejs is isntalled successfully by type the node --version
   
   If it prints something like v0.10.38, node is installed successfully.
 
-## Install mongodb driver for Nodejs to connect Nodejs to MongoDB. There is a package.json which holds all the dependendencies.
+## Install mongodb driver for Nodejs to connect Nodejs to MongoDB. 
 
-Type the below command to install the mongodb driver dependency.
+There is a package.json which holds all the dependendencies. Type the below command to install the mongodb driver dependency.
 
     npm install
     
