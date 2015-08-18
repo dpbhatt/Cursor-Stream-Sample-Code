@@ -1,0 +1,22 @@
+{
+  "name": "Cursor-Stream-Sample-Code",
+  "version": "1.0.0",
+  "description": "MongoDB cursor to query, iterate and update the document using Nodejs stream to overcome the MongoError: Connection Closed By Application or MongoError: server localhost:27017 sockets closed.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpbhatt/Cursor-Stream-Sample-Code"
+  },
+  "author": "DP Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpbhatt/Cursor-Stream-Sample-Code/issues"
+  },
+  "homepage": "https://github.com/dpbhatt/Cursor-Stream-Sample-Code",
+  "dependencies": {
+    "mongodb": "^2.0.41"
+  }
+}
